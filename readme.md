@@ -60,12 +60,12 @@ A module to allow students to connect to other students who offer guidance and h
 ## Setup Instructions 🏃
 
 ### Terminal 1
-1. Clone backend repo  
-   ```bash
-   git clone https://github.com/Trinav2001/QuoVit-Backend.git
-2. Install dependencies
+1. Clone backend repo: 
+   `git clone https://github.com/Trinav2001/QuoVit-Backend.git`
+   
+3. Install dependencies
    `npm install`
-3. Start server
+4. Start server
    `node start`
 
 Terminal 2
