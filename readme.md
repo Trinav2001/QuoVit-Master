@@ -73,13 +73,18 @@ Terminal 2
 2. `cd frontend`
 3. `npm install & npm start`
 
-View app on http://localhost:3000 
 
+View app on [http://localhost:3000](http://localhost:3000)
+
+---
 
 ## Useful Resources 🧧
 
 - [Demo Video](https://www.youtube.com/watch?v=zYL1du5k2Vs&ab_channel=MounviPodapati)
 - [Design File](https://www.figma.com/file/RlwqrzDyETh2TUaAVy7xir/QuoVit?node-id=0%3A1)
+- [Final Report](https://github.com/Trinav2001/QuoVit-Master/blob/main/19BCE0493_IWP_final%20doc.pdf)
+
+---
 
 ## Contributors 🌟
 - [Mounvi Podapati](https://github.com/mounvip1525)
@@ -88,10 +93,7 @@ View app on http://localhost:3000
 - [Tanmay Srivastava](https://github.com/tanmay-xvx)
 
 ```javascript
-
 if (youEnjoyed) {
     starThisRepository();
 }
-
-```
 
