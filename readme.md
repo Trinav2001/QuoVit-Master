@@ -59,13 +59,17 @@ A module to allow students to connect to other students who offer guidance and h
  
 ## Setup Instructions 🏃
 
-Terminal 1
-1. `git clone https://github.com/mounvip1525/QuoVit-Backend.git` 
-2. `npm install`
-3. `node start`
+### Terminal 1
+1. Clone backend repo  
+   ```bash
+   git clone https://github.com/Trinav2001/QuoVit-Backend.git
+2. Install dependencies
+   `npm install`
+3. Start server
+   `node start`
 
 Terminal 2
-1. `git clone https://github.com/mounvip1525/QuoVit.git` 
+1. `git clone https://github.com/Trinav2001/QuoVit-Master.git`
 2. `cd frontend`
 3. `npm install & npm start`
 
@@ -76,7 +80,6 @@ View app on http://localhost:3000
 
 - [Demo Video](https://www.youtube.com/watch?v=zYL1du5k2Vs&ab_channel=MounviPodapati)
 - [Design File](https://www.figma.com/file/RlwqrzDyETh2TUaAVy7xir/QuoVit?node-id=0%3A1)
-- [Final Report](https://github.com/mounvip1525/QuoVit/blob/master/19BCE0396_VL2021220105208_PE003.pdf)
 
 ## Contributors 🌟
 - [Mounvi Podapati](https://github.com/mounvip1525)
